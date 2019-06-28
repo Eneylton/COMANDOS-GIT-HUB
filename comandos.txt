@@ -1,0 +1,26 @@
+criar branch
+git checkout -b branch-novo
+
+Adicionar
+
+git add.
+
+Subir atualzaçao local
+
+git push origin branch-novo
+
+Entrar na branch master
+
+git checkout master
+
+Atualiza projeto principal
+
+git merge branch-novo
+
+Depois adicionar os comandos
+
+git add .
+
+git commit -m "Projeto atualizado"
+
+git push origin master
